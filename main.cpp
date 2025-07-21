@@ -8,6 +8,7 @@ int main(){
 		}
 		cout << i+1;
 		cout << " - ";
-	}
+	} 
+	cout << endl;
 	cout << "Looping Selesai" << endl;
  }

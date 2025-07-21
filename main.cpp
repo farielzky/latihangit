@@ -10,5 +10,6 @@ int main(){
 		cout << " - ";
 	} 
 	cout << endl;
+	cout << "Kanyus";
 	cout << "Looping Selesai" << endl;
  }
